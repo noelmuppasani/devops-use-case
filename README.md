@@ -61,9 +61,9 @@ Example:
 
 ## Status
 
-✅ Infrastructure provisioned  
-✅ CI/CD pipeline operational  
-✅ Application deployed and publicly accessible
+Infrastructure provisioned  
+CI/CD pipeline operational  
+Application deployed and publicly accessible
 
 ***
 
